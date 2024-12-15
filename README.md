@@ -1,6 +1,3 @@
-#### Hi👋 I'm teenager-ETH
-
-
 Hi 👋 My name is I'm a teenager - ETH
 =====================================
 
@@ -31,7 +28,6 @@ Web3 enthusiast and blockchain technology specialist with experience in developi
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-
 
 
 
